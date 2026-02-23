@@ -63,7 +63,7 @@ Zentry/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/zentry.git
+git clone https://github.com/eslamalhendawy/zentry.git
 cd zentry
 ```
 
